@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Santosh Solanki 👋
 
-<!--
-**Klyroth/Klyroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Indie Game Developer** — I build games with Unity.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- **SK First Game** — a 3D adventure game built with Unity (URP), with a custom player character, terrain maps, and third-person movement. Android version coming soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Game Development:** Unity, URP, C#
+- **3D:** Blender
+- **Content:** Hindi moral stories & gaming videos on YouTube
+
+## 📺 Find me
+- **YouTube:** [Shan Gamer 444](https://www.youtube.com/@shangamerYT)
+
+*Learning, building, and shipping games — one project at a time.*
